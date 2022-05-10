@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfDe8e6338f848b5C6F34AD62f026B06D03Ba88b5",
+  "SCAN_LINK": "https://etherscan.io/address/0xfde8e6338f848b5c6f34ad62f026b06d03ba88b5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "CopeDAO",
+  "SYMBOL": "COPE",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/copedao",
+  "SHOW_BACKGROUND": true
+}
